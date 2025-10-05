@@ -8,23 +8,62 @@ I actively participate in university innovation projects and hackathons, where I
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
-**Frontend & Web:**  
-![Vue](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Materialize](https://img.shields.io/badge/-Materialize-EE6E73?style=flat-square)
+### **Frontend & Web**
+I specialize in building responsive and interactive web applications using modern frameworks and libraries. My experience includes creating user interfaces, client-side logic, and responsive designs.  
 
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="25"/> **Vue.js** – Progressive JavaScript framework for building user interfaces  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="25"/> **Nuxt.js** – Framework for server-side rendered Vue applications  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25"/> **React.js** – Library for building interactive UIs  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> **JavaScript** – Core web development language  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/> **HTML5** – Markup language for structuring web pages  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/> **CSS3** – Styling web pages  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialize/materialize-original.svg" width="25"/> **Materialize CSS** – CSS framework for responsive design  
 
-**Programming & Systems:**  
-![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JDK](https://img.shields.io/badge/-JDK-007396?style=flat-square)
+### **Backend & Databases**
+I have experience developing backend services, handling databases, and working with cloud infrastructure to build scalable and reliable applications.  
 
-**Software Development & Tools:**  
-Git ![CI/CD](https://img.shields.io/badge/-CI/CD-007ACC?style=flat-square) Embedded Systems Object-Oriented Programming (OOP) Algorithms Data Structures Microcode Web Development Front-End Development Computer Architecture Computer Graphics Digital Technology Computer Networking Numerical Analysis Mathematical Analysis Software Development Microsoft Office VBA ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/> **Node.js** – JavaScript runtime for backend development  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="25"/> **Oracle Database** – Relational database for enterprise applications  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25"/> **PostgreSQL** – Advanced open-source relational database  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> **MySQL** – Widely used relational database system  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="25"/> **Firebase** – Backend-as-a-Service for real-time apps  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="25"/> **AWS** – Cloud services platform for hosting and deployment  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="25"/> **Amazon DynamoDB** – NoSQL cloud database  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="25"/> **Supabase** – Open-source Firebase alternative  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="25"/> **SQL** – Query language for relational databases  
+
+### **Programming & Systems**
+I am proficient in multiple programming languages, from low-level systems programming to high-level application development. I also apply algorithms and data structures to solve complex problems efficiently.  
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25"/> **C** – Low-level programming for systems and embedded devices  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++** – Object-oriented and system programming  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> **Python** – High-level scripting and automation  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> **Java** – General-purpose programming and backend development  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/> **TypeScript** – Typed superset of JavaScript  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jdk/jdk-original.svg" width="25"/> **JDK** – Java development kit for compiling and running Java apps  
+
+### **Tools & Environments**
+I work with a variety of tools and IDEs for development, version control, automation, and deployment to ensure code quality and productivity.  
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25"/> **Git** – Version control system  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> **Linux** – Operating system for development and servers  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25"/> **Bash** – Command-line scripting  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="25"/> **CMake** – Build system for C/C++ projects  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25"/> **VS Code** – Code editor for all languages  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="25"/> **CLion** – C/C++ IDE by JetBrains  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original.svg" width="25"/> **REST APIs** – Design and consume web services  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" width="25"/> **WebSockets** – Real-time web communication  
+
+
+**Other Skills**  
+
+Embedded Systems, Object-Oriented Programming (OOP), Algorithms, Data Structures, Microcode, Web Development, Front-End Development, Computer Architecture, Computer Graphics, Digital Technology, Computer Networking, Numerical Analysis, Mathematical Analysis, Software Development, Microsoft Office, VBA
 
 ---
 
-## Contact
+## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/dmytro-malinovskyi-85914529b/)  
 - Email: malynovskydmitriyy@gmail.com
