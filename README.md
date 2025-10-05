@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Dmytro Malinovskyi
+# Hi, I'm Dmytro Malinovskyi
 
-### 🎓 Software Engineering Student | Full-Stack Developer (Vue/Nuxt, React, C/C++)
+### Software Engineering Student | Full-Stack Developer (Vue/Nuxt, React, C/C++)
 
 I’m a 5th-semester Software Engineering student at **Lodz University of Technology**, Faculty of Electronics, Electrical Engineering, and Computer Science. I’m passionate about designing and developing innovative software solutions, with hands-on experience in full-stack development, microservices, and modern frameworks like **Vue, Nuxt, and React**.  
 
@@ -20,20 +20,11 @@ I actively participate in university innovation projects and hackathons, where I
 ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JDK](https://img.shields.io/badge/-JDK-007396?style=flat-square)
 
 **Software Development & Tools:**  
-Git ![CI/CD](https://img.shields.io/badge/-CI/CD-007ACC?style=flat-square) Embedded Systems Object-Oriented Programming (OOP) Algorithms Data Structures Microcode Web Development Front-End Development Computer Architecture Computer Graphics Digital Technology Computer Networking Numerical Analysis Mathematical Analysis Software Development Microsoft Office VBA
+Git ![CI/CD](https://img.shields.io/badge/-CI/CD-007ACC?style=flat-square) Embedded Systems Object-Oriented Programming (OOP) Algorithms Data Structures Microcode Web Development Front-End Development Computer Architecture Computer Graphics Digital Technology Computer Networking Numerical Analysis Mathematical Analysis Software Development Microsoft Office VBA ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)
 
 ---
 
-## 🌍 Languages
-
-- 🇬🇧 English – Limited working proficiency  
-- 🇵🇱 Polish – Full professional proficiency  
-- 🇷🇺 Russian – Full professional proficiency  
-- 🇺🇦 Ukrainian – Full professional proficiency
-
----
-
-## 📫 Contact
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/dmytro-malinovskyi-85914529b/)  
 - Email: malynovskydmitriyy@gmail.com
