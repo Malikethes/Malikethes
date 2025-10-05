@@ -1,72 +1,82 @@
-# Hi, I'm Dmytro Malinovskyi
+# Hi, I'm Dmytro Malinovskyi 👋
 
 ### Software Engineering Student | Full-Stack Developer (Vue/Nuxt, React, C/C++)
 
-I’m a 5th-semester Software Engineering student at **Lodz University of Technology**, Faculty of Electronics, Electrical Engineering, and Computer Science. I’m passionate about designing and developing innovative software solutions, with hands-on experience in full-stack development, microservices, and modern frameworks like **Vue, Nuxt, and React**.  
+I’m a 5th-semester Software Engineering student at **Lodz University of Technology**, Faculty of Electronics, Electrical Engineering, and Computer Science.  
+Passionate about designing innovative software solutions with hands-on experience in **full-stack development, microservices, and modern frameworks**.  
 
-I actively participate in university innovation projects and hackathons, where I practice teamwork, problem-solving, and applying theory to real-world challenges.
+I actively participate in university innovation projects and hackathons, applying teamwork, problem-solving, and theory to real-world challenges.
 
 ---
 
-## Skills & Tools
+## 🛠 Skills & Tools
 
-### **Frontend & Web**
-I specialize in building responsive and interactive web applications using modern frameworks and libraries. My experience includes creating user interfaces, client-side logic, and responsive designs.  
+### Frontend & Web
+Building responsive, interactive web applications with modern frameworks and libraries.  
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="25"/> **Vue.js** – Progressive JavaScript framework for building user interfaces  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="25"/> **Nuxt.js** – Framework for server-side rendered Vue applications  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25"/> **React.js** – Library for building interactive UIs  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> **JavaScript** – Core web development language  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/> **HTML5** – Markup language for structuring web pages  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/> **CSS3** – Styling web pages  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialize/materialize-original.svg" width="25"/> **Materialize CSS** – CSS framework for responsive design  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialize/materialize-original.svg" alt="Materialize CSS" width="40"/>  
 
-### **Backend & Databases**
-I have experience developing backend services, handling databases, and working with cloud infrastructure to build scalable and reliable applications.  
+**Technologies:** Vue.js · Nuxt.js · React.js · JavaScript · TypeScript · HTML5 · CSS3 · Materialize CSS  
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/> **Node.js** – JavaScript runtime for backend development  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="25"/> **Oracle Database** – Relational database for enterprise applications  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25"/> **PostgreSQL** – Advanced open-source relational database  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> **MySQL** – Widely used relational database system  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="25"/> **Firebase** – Backend-as-a-Service for real-time apps  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="25"/> **AWS** – Cloud services platform for hosting and deployment  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="25"/> **Amazon DynamoDB** – NoSQL cloud database  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="25"/> **Supabase** – Open-source Firebase alternative  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="25"/> **SQL** – Query language for relational databases  
+---
 
-### **Programming & Systems**
-I am proficient in multiple programming languages, from low-level systems programming to high-level application development. I also apply algorithms and data structures to solve complex problems efficiently.  
+### Backend & Databases
+Developing scalable backend services and handling relational & non-relational databases.  
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25"/> **C** – Low-level programming for systems and embedded devices  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++** – Object-oriented and system programming  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> **Python** – High-level scripting and automation  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> **Java** – General-purpose programming and backend development  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/> **TypeScript** – Typed superset of JavaScript  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jdk/jdk-original.svg" width="25"/> **JDK** – Java development kit for compiling and running Java apps  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40"/>  
 
-### **Tools & Environments**
-I work with a variety of tools and IDEs for development, version control, automation, and deployment to ensure code quality and productivity.  
+**Technologies:** Node.js · Oracle · PostgreSQL · MySQL · Firebase · AWS · DynamoDB · Supabase · SQL  
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25"/> **Git** – Version control system  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> **Linux** – Operating system for development and servers  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25"/> **Bash** – Command-line scripting  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="25"/> **CMake** – Build system for C/C++ projects  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25"/> **VS Code** – Code editor for all languages  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="25"/> **CLion** – C/C++ IDE by JetBrains  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original.svg" width="25"/> **REST APIs** – Design and consume web services  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" width="25"/> **WebSockets** – Real-time web communication  
+---
 
+### Programming & Systems
+Proficient in multiple programming languages and system-level development.  
 
-**Other Skills**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jdk/jdk-original.svg" alt="JDK" width="40"/>  
 
-Embedded Systems, Object-Oriented Programming (OOP), Algorithms, Data Structures, Microcode, Web Development, Front-End Development, Computer Architecture, Computer Graphics, Digital Technology, Computer Networking, Numerical Analysis, Mathematical Analysis, Software Development, Microsoft Office, VBA
+**Languages & Concepts:** C · C++ · Python · Java · TypeScript · Algorithms · Data Structures · OOP · Embedded Systems  
+
+---
+
+### Tools & Environments
+Using modern tools and IDEs to ensure productivity, quality, and smooth development workflows.  
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="CLion" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original.svg" alt="REST APIs" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" alt="WebSockets" width="40"/>  
+
+**Other Skills:** Embedded Systems · Microcode · Web Development · Computer Architecture · Computer Graphics · Digital Technology · Networking · Numerical Analysis · Microsoft Office · VBA  
 
 ---
 
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/dmytro-malinovskyi-85914529b/)  
-- Email: malynovskydmitriyy@gmail.com
+- Email: malynovskydmitriyy@gmail.com  
 
 ---
 
