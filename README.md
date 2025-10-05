@@ -22,7 +22,6 @@ Building responsive, interactive web applications with modern frameworks and lib
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialize/materialize-original.svg" alt="Materialize CSS" width="40"/>
 </p>
 
 **Technologies:** Vue.js · Nuxt.js · React.js · JavaScript · TypeScript · HTML5 · CSS3 · Materialize CSS  
