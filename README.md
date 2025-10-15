@@ -75,7 +75,14 @@ Using modern tools and IDEs to ensure productivity, quality, and smooth developm
 ### Other Skills 
 Embedded Systems · Microcode · Web Development · Computer Architecture · Computer Graphics · Digital Technology · Networking · Numerical Analysis · Microsoft Office · VBA  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Malikethes&theme=onedark&column=3&row=2&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+# Привет! 👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Malikethes GitHub stats](https://github-readme-stats.vercel.app/api?username=Malikethes&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malikethese&layout=compact&theme=radical)
+
 
 ---
 
