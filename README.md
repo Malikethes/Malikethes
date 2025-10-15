@@ -7,9 +7,17 @@ Passionate about designing innovative software solutions with hands-on experienc
 
 I actively participate in university innovation projects and hackathons, applying teamwork, problem-solving, and theory to real-world challenges.
 
----
+🔭 I’m currently working on [eco-point](https://github.com/Malikethes/eco-point)
 
-## Skills & Tools
+# Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/dmytro-malinovskyi-85914529b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dmytro-malinovskyi-85914529b" height="50" width="50" /></a>
+<a href="https://instagram.com/@kitavax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kitavax" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/kitava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kitava" height="50" width="50" /></a>
+</p>
+<p>📨 My email: <a href="mailto:malynovskydmitriyy@gmail.com">malynovskydmitriyy@gmail.com</a></p>
+
+# Skills & Tools
 
 ### Frontend & Web
 Building responsive, interactive web applications with modern frameworks and libraries.  
@@ -75,17 +83,16 @@ Using modern tools and IDEs to ensure productivity, quality, and smooth developm
 ### Other Skills 
 Embedded Systems · Microcode · Web Development · Computer Architecture · Computer Graphics · Digital Technology · Networking · Numerical Analysis · Microsoft Office · VBA  
 
----
+# GitHub Stats
 
-## 🏆 GitHub Achievements
+<p align="center" style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Malikethes&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malikethes&langs_count=6&theme=radical&layout=compact" alt="Top Languages" width="48%" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Malikethes&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Malikethes GitHub stats](https://github-readme-stats.vercel.app/api?username=Malikethes&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malikethes&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malikethes&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malikethes&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
