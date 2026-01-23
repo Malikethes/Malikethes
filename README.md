@@ -82,9 +82,4 @@ Embedded Systems · Microcode · Web Development · Computer Architecture · Com
   <img src="https://github-readme-stats.vercel.app/api?username=Malikethes&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malikethes&langs_count=6&theme=radical&layout=compact" alt="Top Languages" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malikethes&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ---
