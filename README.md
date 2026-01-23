@@ -7,8 +7,6 @@ Passionate about designing innovative software solutions with hands-on experienc
 
 I actively participate in university innovation projects and hackathons, applying teamwork, problem-solving, and theory to real-world challenges.
 
-🔭 I’m currently working on [eco-point](https://github.com/Malikethes/eco-point)
-
 # Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/dmytro-malinovskyi-85914529b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dmytro-malinovskyi-85914529b" height="50" width="50" /></a>
