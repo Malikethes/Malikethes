@@ -88,12 +88,3 @@ Embedded Systems · Microcode · Web Development · Computer Architecture · Com
 </p>
 
 ---
-
-## 📫 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/dmytro-malinovskyi-85914529b/)  
-- Email: malynovskydmitriyy@gmail.com  
-
----
-
-Thanks for stopping by! I’m always open to collaboration, internships, and new challenges in software engineering and full-stack development.
