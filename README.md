@@ -8,12 +8,7 @@ Passionate about designing innovative software solutions with hands-on experienc
 I actively participate in university innovation projects and hackathons, applying teamwork, problem-solving, and theory to real-world challenges.
 
 # Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/dmytro-malinovskyi-85914529b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dmytro-malinovskyi-85914529b" height="50" width="50" /></a>
-<a href="https://instagram.com/@kitavax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kitavax" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/kitava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kitava" height="50" width="50" /></a>
-</p>
-<p>📨 My email: <a href="mailto:malynovskydmitriyy@gmail.com">malynovskydmitriyy@gmail.com</a></p>
+<p> My email: <a href="mailto:malynovskydmitriyy@gmail.com">malynovskydmitriyy@gmail.com</a></p>
 
 # Skills & Tools
 
